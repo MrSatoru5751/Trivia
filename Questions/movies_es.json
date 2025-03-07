@@ -1,0 +1,212 @@
+[
+    {
+        "id": "001",
+        "question": "¿Quién dirigió la pelicula 'Avengers: Endgame'?",
+        "options": ["Christopher Nolan", "Hermanos Russo", "Hermanos Coen", "Zack Snyder"],
+        "answer": "Hermanos Russo",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "002",
+        "question": "¿Quién dijo la siguiente frase? 'Un gran poder conlleva una gran responsabilidad'.",
+        "options": ["Spiderman", "Tío Ben", "Iron Man", "Maluma"],
+        "answer": "Tío Ben",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "003",
+        "question": "¿Quién dirigió la pelicula 'Pulp Fiction'?",
+        "options": ["David Lynch", "Francis Ford Coppola", "David Fincher", "Quentin Tarantino"],
+        "answer": "Quentin Tarantino",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "004",
+        "question": "¿Quién interpreta a Electro en 'El sorprendente hombre araña 2'?",
+        "options": ["Jamie Foxx", "Andrew Garfield", "Robert Downey Jr.", "Ryan Gosling"],
+        "answer": "Jamie Foxx",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "005",
+        "question": "¿En qué película aparece el personaje 'Ghostface'?",
+        "options": ["Halloween", "Viernes 13", "Scream", "Rambo"],
+        "answer": "Scream",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "006",
+        "question": "¿Cómo se llama la esposa de Shrek?",
+        "options": ["Fiona", "Fillis", "Frida", "Cindy"],
+        "answer": "Fiona",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "007",
+        "question": "¿Cuál es el número del agente James Bond?",
+        "options": ["7", "007", "0007", "07"],
+        "answer": "007",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "008",
+        "question": "¿Cuál es el número de distrito de Katnis Everdeen en 'Los Juegos del Hambre'?",
+        "options": ["13", "11", "12", "9"],
+        "answer": "12",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "009",
+        "question": "¿Cómo se llama el barco del capitan Jack Sparrow?",
+        "options": ["Holandés Errante", "Perla Negra", "Holandés Volador", "Queen Zenobia"],
+        "answer": "Perla Negra",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "010",
+        "question": "¿Cuál es el nombre del niño que acosa Chucky en la pelicula 'Chucky: el muñeco diabólico'?",
+        "options": ["Christopher", "Charlie", "Jack", "Andy"],
+        "answer": "Andy",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "011",
+        "question": "¿Cuál es el nombre del trailer rojo con azul en la película 'Transformers'?",
+        "options": ["Optimus Prime", "Megatron", "Ironheide", "Mack"],
+        "answer": "Optimus Prime",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "012",
+        "question": "¿En qué año se estrenó la película 'Matrix'?",
+        "options": ["1997", "2001", "1999", "2000"],
+        "answer": "1999",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "013",
+        "question": "¿Cómo se llama el protagonista de la película 'Kung Fu Panda'?",
+        "options": ["Po", "Shifu", "Panda", "Owen"],
+        "answer": "Po",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "014",
+        "question": "¿Cuál era el nombre de la amada de Forrest Gump?",
+        "options": ["Jessie", "Jenny", "Jadie", "Jackie"],
+        "answer": "Jenny",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "015",
+        "question": "¿Cómo se llama el villano de los X-men que fue amigo del profesor X?",
+        "options": ["Voltron", "Wolverine", "Canserbero", "Magneto"],
+        "answer": "Magneto",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "016",
+        "question": "¿Cuál es el nombre del mago adolescente con una cicatriz en la frente y que usa lentes?",
+        "options": ["Harry Poter", "Harry Potter", "Severus Snape", "Alfredo Adame"],
+        "answer": "Harry Potter",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "017",
+        "question": "¿Cómo se llama el asesino de la película 'Viernes 13: Parte 1'?",
+        "options": ["Pamela Voorhees", "Jason Voorhees", "Freddy Voorhees", "Michael Voorhees"],
+        "answer": "Pamela Voorhees",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "018",
+        "question": "¿Cuál era el numero del Rayo McQueen en la pelicula 'Cars'?",
+        "options": ["85", "93", "95", "63"],
+        "answer": "95",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "019",
+        "question": "¿Cuál es el nombre del dragon compañero de Mulan?",
+        "options": ["Chimuelo", "Mushu", "Macho", "Misho"],
+        "answer": "Mushu",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "020",
+        "question": "¿Cómo se llama el papá de la sirenita?",
+        "options": ["Poseidón", "Neptuno", "Tritón", "Thor"],
+        "answer": "Tritón",
+        "difficulty": "Fácil"
+    },
+    {
+        "id": "021",
+        "question": "¿Quién interpreta a Aragorn en la trilogía de 'El señor de los anillos'?",
+        "options": ["Charlie Sheen", "Viggo Mortensen", "Adrien Brody", "Sean Bean"],
+        "answer": "Viggo Mortensen",
+        "difficulty": "Normal"
+    },
+    {
+        "id": "022",
+        "question": "¿En qué película fue el primer papel de Johnny Depp?",
+        "options": ["Donnie Darko", "It", "Pesadilla en la Calle Elm", "El joven manos de tijera"],
+        "answer": "Pesadilla en la Calle Elm",
+        "difficulty": "Normal"
+    },
+    {
+        "id": "023",
+        "question": "¿Quién dijo la siguiente frase? 'Siempre digo la verdad. Incluso cuando miento'",
+        "options": ["Tony Montana", "Michael Corleone", "Patrick Bateman", "Joker"],
+        "answer": "Tony Montana",
+        "difficulty": "Normal"
+    },
+    {
+        "id": "024",
+        "question": "¿Cómo se llama el hotel de 'El resplandor' de Stanley Kubrick?",
+        "options": ["Tohoo", "Shire", "Sherwood", "Overlook"],
+        "answer": "Overlook",
+        "difficulty": "Normal"
+    },
+    {
+        "id": "025",
+        "question": "¿Cómo se llama el interés amoros de Seth en 'Supercool'?",
+        "options": ["Andrea", "Victoria", "Jules", "Becca"],
+        "answer": "Jules",
+        "difficulty": "Normal"
+    },
+    {
+        "id": "026",
+        "question": "¿A quién interpreta Brad Pitt en 'Deadpool 2'?",
+        "options": ["Vanisher", "Ghost", "Peter", "Juggernaut"],
+        "answer": "Vanisher",
+        "difficulty": "Normal"
+    },
+    {
+        "id": "027",
+        "question": "¿Cómo se llama el planeta de 'Interestellar' donde se perdieron 23 años?",
+        "options": ["Mann", "Gargantua", "Miller", "Edmunds"],
+        "answer": "Miller",
+        "difficulty": "Normal"
+    },
+    {
+        "id": "028",
+        "question": "¿A quién interpreta Morgan Freeman en 'Se7en'?",
+        "options": ["Vanisher", "Ghost", "Peter", "Juggernaut"],
+        "answer": "Vanisher",
+        "difficulty": "Normal"
+    },
+    {
+        "id": "029",
+        "question": "¿En qué película aparece el personaje 'Leonidas'?",
+        "options": ["Gladiador", "300", "Troya", "Furia de titanes"],
+        "answer": "300",
+        "difficulty": "Normal"
+    },
+    {
+        "id": "030",
+        "question": "¿A quién interpreta Andrew Garfield en la película 'La red social?",
+        "options": ["Elon Musk", "Mark Zuckerberg", "Eduardo Zaverin", "Bill Gates"],
+        "answer": "Eduardo Zaverin",
+        "difficulty": "Normal"
+    }
+]
